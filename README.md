@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, [Tim](https://timtangonan.com) here.
+
+I'm a front-end developer who specializes in the JAMstack architecture. My framework of choice is Gatsby.
 
 <!--
 **timtangonan/timtangonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
