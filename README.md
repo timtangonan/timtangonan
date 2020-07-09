@@ -1,4 +1,5 @@
-### Hi, [Tim](https://timtangonan.com) here.
+### Hi, Tim here.
+<a href="https://timtangonan.com" target="_blank" rel="noreferrer noopener">timtangonan.com</a>
 
 I'm a front-end developer who specializes in the JAMstack architecture. My framework of choice is Gatsby.
 
