@@ -1,7 +1,6 @@
-### Hi, Tim here.
-<a href="https://timtangonan.com" target="_blank" rel="noreferrer noopener">timtangonan.com</a>
+### Hi! Tim here.
 
-I'm a front-end developer who specializes in the JAMstack architecture. My framework of choice is Gatsby.
+I am a huge fan of the JAMstack architecture. I mainly work with Gatsby and React for personal projects.
 
 <!--
 **timtangonan/timtangonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
