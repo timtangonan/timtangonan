@@ -1,18 +1,13 @@
-### Hi! Tim here.
+### Hi! I'm Tim.
 
-I am a huge fan of the JAMstack architecture. I mainly work with Gatsby and React for personal projects.
+I am a front-end developer with a tech stack that leans mostly into the JAMstack architecture.
 
-<!--
-**timtangonan/timtangonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My utility belt:
+- Contentful
+- Sanity
+- React
+- NextJS
+- GatsbyJS
+- Netlify
+- Vercel
+- FaunaDB
