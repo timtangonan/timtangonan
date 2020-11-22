@@ -2,7 +2,7 @@
 
 I am a front-end developer with a tech stack that leans mostly into the JAMstack architecture.
 
-My utility belt:
+My JAM:
 - Contentful
 - Sanity
 - React
